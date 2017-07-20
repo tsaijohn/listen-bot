@@ -41,7 +41,7 @@
 	"sub_no_type": "缺少訂閱種類參數, 目前可用的種類有: %s",
 	"sub_wrong_type": "不支援此訂閱種類, 目前可用的種類有: %s",
 	"sub_wrong_newsfeed": "不支援此訂閱新聞, 目前可訂閱的新聞有: %s",
-	"twitch_clip": "**%s** 正在玩 Dota 2, 由 **%s**剪輯, 長度 **%s**",
+	"twitch_clip": "**%s** 正在玩 Dota 2, 由 **%s**剪輯, 長度 **%s**"秒,
 	"unsub_message_1": "%s在此頻道的訂閱:",
 	"unsub_message_3": "請在60秒內輸入訂閱項目前的數字以取消訂閱.",
 	"unsub_message_4": "用 `%sunsub nuke` 來清除此頻道所有訂閱.",
